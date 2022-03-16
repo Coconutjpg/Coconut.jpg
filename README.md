@@ -9,4 +9,4 @@ Group Members:
   2323965 - Nelson Okafor
   2338894 - Yoshailen Michael
   2312836 - Ama Commey
-  ....... - Duran Reddy [SCRUM MASTER]
+  2353785 - Duran Reddy [SCRUM MASTER]
