@@ -1,4 +1,4 @@
-# Software-Design
+# COCONUT.JPG
 Repository for our SD assignment
 
 Group Members:
