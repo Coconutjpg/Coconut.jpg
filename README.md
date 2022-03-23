@@ -10,3 +10,6 @@ Group Members:
   2338894 - Yoshailen Michael {Lord-Y14}
   2312836 - Ama Commey {AmaxCoder}
   2353785 - Duran Reddy {NoName-0512} [SCRUM MASTER]
+
+
+[![Coconyt.jpg](https://circleci.com/gh/i-renaissant/Coconut.jpg.svg?style=svg)](https://circleci.com/gh/i-renaissant/Coconut.jpg)
