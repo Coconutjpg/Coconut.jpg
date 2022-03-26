@@ -29,8 +29,6 @@ jobs:
       - image: cimg/node:16.0.0
     steps:
       - checkout
-      - run: npm install
-      - run: npm test
       - codecov/upload:
           file: coverage/coverage-final.json
 
