@@ -12,4 +12,4 @@ Group Members:
   2353785 - Duran Reddy {NoName-0512} [SCRUM MASTER]
 
 
-[![Coconyt.jpg](https://circleci.com/gh/i-renaissant/Coconut.jpg.svg?style=svg)](https://circleci.com/gh/i-renaissant/Coconut.jpg)
+[![Coconutjpg](https://circleci.com/gh/Coconutjpg/Coconut.jpg.svg?style=shield)](https://circleci.com/gh/Coconutjpg/Coconut.jpg)
