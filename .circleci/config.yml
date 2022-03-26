@@ -20,7 +20,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: "echo Hello, World!; pwd"
+          command: "ls"
       - codecov/upload:
           file: coverage/coverage-final.json
 
