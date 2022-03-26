@@ -5,7 +5,7 @@ Group Members:
   2362907 - Hewitt Nyambalo {i-renaissant}
   2277795 - Michael Coker {MichaelCoker1}
   2304903 - Liam Carstens {LordInfernus09}
-  2302997 - Dylan ... {dtjabring123}
+  2302997 - Dylan Tjabring {dtjabring123}
   2323965 - Nelson Okafor {ebucs}
   2338894 - Yoshailen Michael {Lord-Y14}
   2312836 - Ama Commey {AmaxCoder}
