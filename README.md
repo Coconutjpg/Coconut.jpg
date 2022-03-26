@@ -13,3 +13,4 @@ Group Members:
 
 
 [![Coconutjpg](https://circleci.com/gh/Coconutjpg/Coconut.jpg.svg?style=shield)](https://circleci.com/gh/Coconutjpg/Coconut.jpg)
+[![codecov](https://codecov.io/gh/Coconutjpg/Coconut.jpg/branch/main/graph/badge.svg?token=UJ83W00NHA)](https://codecov.io/gh/Coconutjpg/Coconut.jpg)
