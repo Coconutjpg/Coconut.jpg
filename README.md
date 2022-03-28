@@ -12,5 +12,5 @@ Group Members:
   2353785 - Duran Reddy {NoName-0512} [SCRUM MASTER]
 
 
-[![Coconutjpg](https://circleci.com/gh/Coconutjpg/Coconut.jpg/tree/changes_to_circle_(allows_js_testing).svg?style=shield)](https://circleci.com/gh/Coconutjpg/Coconut.jpg)
-[![codecov](https://codecov.io/gh/Coconutjpg/Coconut.jpg/branch/changes_to_circle_(allows_js_testing)/graph/badge.svg?token=UJ83W00NHA)](https://codecov.io/gh/Coconutjpg/Coconut.jpg)
+[![Coconutjpg](https://circleci.com/gh/Coconutjpg/Coconut.jpg/tree/main.svg?style=shield)](https://circleci.com/gh/Coconutjpg/Coconut.jpg)
+[![codecov](https://codecov.io/gh/Coconutjpg/Coconut.jpg/branch/main/graph/badge.svg?token=UJ83W00NHA)](https://codecov.io/gh/Coconutjpg/Coconut.jpg)
