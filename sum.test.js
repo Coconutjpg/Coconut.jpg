@@ -1,5 +1,5 @@
 const sum = require("./sum");
-const sum = require("./multiply");
+const multiply = require("./multiply");
 
 describe("sum suite", function(){
   test("adds 2 + 3 to equal 5" , () => {
