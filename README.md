@@ -1,4 +1,5 @@
 # COCONUT.JPG
+TEST PURPOSES ONLY
 Repository for our SD assignment
 
 Group Members:
